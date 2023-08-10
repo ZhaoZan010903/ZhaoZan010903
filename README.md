@@ -2,11 +2,11 @@
 - Java 
 - GO (学习中)
 
-### 计划
+### 笔记案例计划
 - 框架:
 - - Spring
   - Spring Cloud ：Spring Cloud Alibaba 未来会写一个微服务的OA项目
-  - Spring Bean
+  - Spring Bean AOP IOC 依赖注入等
 
 - 中间件:    
 - - 消息队列
