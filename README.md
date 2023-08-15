@@ -31,7 +31,7 @@
 
 ### 说明
 弹幕视频网站项目为第一个从0到1的项目,存在很多不完整的地方.
-其他项目为学习笔记即过程
+SpringSecurity + JWT 为SpringBoot 3.1 的前后端分离项目的上手即用的Security开发 增强复用性
 
 <!---
 ZhaoZan010903/ZhaoZan010903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
